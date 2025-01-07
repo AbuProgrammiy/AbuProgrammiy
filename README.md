@@ -1,4 +1,4 @@
-## Telegram: @Abu_Programmiy
-## You Tube: @Abu_Programmiy
+## Telegram: @abuProgrammiy
+## You Tube: @abuProgrammiy
 #
 <img src="https://raw.githubusercontent.com/AbuProgrammiy/AbuProgrammiy/output/snake.svg" alt="Snake animation" />
